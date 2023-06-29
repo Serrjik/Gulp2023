@@ -4,9 +4,6 @@ Gulp сборка. HTML, SCSS, JS, webpack, babel, webp, сжатие графи
 Демо:
 https://serrjik.github.io/Gulp2023/
 
-Сборка на Gulp 4 на примере вёрстки 1 страницы блога.
-Демо:
-https://serrjik.github.io/Gulp2023/
 ![Скриншот страницы](https://github.com/Serrjik/Gulp2023/blob/main/page.jpg)
 
 ## Для чего использовать сборку?
