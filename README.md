@@ -7,7 +7,7 @@ https://serrjik.github.io/Gulp2023/
 Сборка на Gulp 4 на примере вёрстки 1 страницы блога.
 Демо:
 https://serrjik.github.io/Gulp2023/
-![Скриншот страницы](https://raw.githubusercontent.com/Serrjik/gulp4-pug-scss-assembly/master/page.jpg)
+![Скриншот страницы](https://github.com/Serrjik/Gulp2023/blob/main/page.jpg)
 
 ## Для чего использовать сборку?
 
