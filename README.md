@@ -6,6 +6,8 @@ https://serrjik.github.io/Gulp2023/
 
 ![Скриншот страницы](https://github.com/Serrjik/Gulp2023/blob/main/page.jpg)
 
+Сборка создана по инструкции школы [Webcademy](https://webcademy.ru/). Урок на Youtube: https://youtu.be/D_HW-tvyKKE
+
 ## Для чего использовать сборку?
 
 Использовать сборку предполагается для вёрстки многостраничных сайтов. Используется импорт HTML-файлов и препроцессор SCSS для CSS-стилей.
