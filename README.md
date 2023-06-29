@@ -1,5 +1,5 @@
-# Gulp2023
-Gulp сборка. HTML, SCSS, JS, webpack, babel, webp, сжатие графики, автопрефиксы
+# Gulp сборка 2023
+Gulp 4 сборка. HTML, SCSS, JS, webpack, babel, webp, сжатие графики, автопрефиксы
 
 Демо:
 https://serrjik.github.io/Gulp2023/
